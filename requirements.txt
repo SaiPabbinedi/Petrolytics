@@ -1,2 +1,4 @@
 ### dependency
 streamlit
+matplotlib
+reportlab

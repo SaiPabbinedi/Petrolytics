@@ -1,0 +1,12 @@
+[project]
+name = "petrolytics-development"
+version = "0.1.0"
+description = "Add your description here"
+requires-python = ">=3.13"
+dependencies = [
+    "matplotlib>=3.10.3",
+    "openpyxl>=3.1.5",
+    "pycountry>=24.6.1",
+    "reportlab>=4.4.2",
+    "streamlit",
+]
